@@ -1,2 +1,2 @@
 # KripTech-Flight-Tracker
-KripTech-Flight-Tracker
+Flight tracking info
